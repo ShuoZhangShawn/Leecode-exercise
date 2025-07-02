@@ -28,7 +28,7 @@ class Solution:
             if s[left]!= s[right]:
                 return False
             left += 1
-            right -= 1s
+            right -= 1
         return True 
 
 
